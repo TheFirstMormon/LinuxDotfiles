@@ -11,3 +11,5 @@ side note: Here is what I reccomend personally for anyone else who is minimally 
 Personal Tip: Use lxappearance for GTK theming on bspwm. I don't know why that works and not xfce4-settings, but it does. 
 Also, if you find some wallpapers y'all like that may go with this sort of theming, I would like to see them, I highly doubt this will be a large dotfile, but it would be cool anyways. I am not a big ricer at heart,
 but I hope at least there is some some sort of inspiration. Happy Ricing!
+
+Update 10/16/2023: I will be adding nord theming styles to the linux dotfiles as well. 
