@@ -4,8 +4,7 @@ I use the bspwm git as a start for my dotfiles because of ease of source for pol
 this what I use for my system so I mean... 
 
 side note: Here is what I reccomend personally for anyone else who is minimally minded like me (sort of) 
-1. I don't encourage PICOM or xcompmgr (unless your on intel or AMD GPU), I am on a NVIDIA card and picom makes games screen tears. and I am lazy to make a config to make it where it quits when I play games. 
-(You could just killall picom playing games also. I do that now.) 
+1. I don't encourage PICOM or xcompmgr (unless your on intel or AMD GPU), If you are on NVIDIA and have screen tear with picom, just kill it while playing games.
 2. Rofi - I recomend rofi and the theme I just find nord themes I can find here on gitub.
 3. GTK Theme: I just stick to materia-dark and ePapirusDark for icons for my theming. Or Nord themes here on github. 
 
